@@ -5,6 +5,9 @@
 [![npm Downloads](https://img.shields.io/npm/dm/react-autosuggest.svg?style=flat-square)](https://npmjs.org/package/react-autosuggest)
 [![npm Version](https://img.shields.io/npm/v/react-autosuggest.svg?style=flat-square)](https://npmjs.org/package/react-autosuggest)
 
+# Disclaimer
+This version is aimed to work on IE11, avoiding  [this bug](https://github.com/facebook/react/issues/7027).
+
 # React Autosuggest
 
 ## Demo
